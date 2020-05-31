@@ -1,0 +1,13 @@
+#bg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#txt{
+    padding-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+}
